@@ -1,0 +1,1 @@
+these tow files are not my own "otsu.h and otsu.cpp", but I just can't find the origin...sorry for the author.
